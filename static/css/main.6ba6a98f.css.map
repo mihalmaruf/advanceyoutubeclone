@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6ba6a98f.css","mappings":"AAAA,EACE,QAAS,CACT,SACF,CAEA,cAEE,sBAAuB,CADvB,0BAA2B,CAG3B,gBAAiB,CADjB,oBAEF","sources":["index.css"],"sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n}\n\n.react-player{\n  max-height: 720px!important;\n  height: 500px!important;\n  width: 100%!important;\n  object-fit: cover;\n}"],"names":[],"sourceRoot":""}
