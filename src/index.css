@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.react-player{
+  max-height: 720px!important;
+  height: 500px!important;
+  width: 100%!important;
+  object-fit: cover;
+}
